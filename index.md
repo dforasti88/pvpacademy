@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: home
 nav_order: 1
 ---
 <img width="705" height="577" alt="immagine" src="https://github.com/user-attachments/assets/df0a3e7f-3314-4989-915f-7285cd08523c" />
