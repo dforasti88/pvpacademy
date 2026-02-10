@@ -1,7 +1,7 @@
 ---
 title: Terminologie
 nav_order: 3
-has_children: true
+has_children: false
 nav_open: true
 has_toc: false
 ---
