@@ -4,5 +4,5 @@ nav_order: 2
 has_children: true
 nav_open: true
 has_toc: false
-redirect_to: [/projectbeta/paginasezioneuno.html](https://dforasti88.github.io/projectbeta/paginasezioneuno.html)
+redirect_to: /projectbeta/paginasezioneuno.html
 ---
