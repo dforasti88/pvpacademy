@@ -1,7 +1,7 @@
 ---
 title: Occhio del Ciclone
 parent: Guide
-nav_order: 1
+nav_order: 2
 has_toc: false
 ---
 <h1>Lezione PvP – Occhio del Ciclone (Eye of the Storm)</h1>
