@@ -1,6 +1,6 @@
 ---
 title: Pagina Uno
-parent: Sezione uno
+parent: Guide Battlegrounds
 nav_order: 1
 has_toc: false
 ---
