@@ -102,24 +102,18 @@ D) Lumber Mill è centrale
 <details>
 <summary><strong>Mostra risposte</strong></summary>
 
-1) C – A Lumber Mill devi guadagnare tempo usando terreno e LOS, non cercare il duello frontale.  
-
-2) B – Con 3 basi stabili difendi il triangolo forte e non regali rotazioni inseguendo una side.  
-
-3) C – È centrale e facilmente rinforzabile, quindi attira fight infiniti che scoprono i lati.  
-
-4) B – Morire lontano dal flag aumenta il tempo di rientro e apre finestra di cap.  
-
-5) C – Il terreno elevato e i knock rendono Lumber Mill la base più forte difensivamente.  
-
-6) A – Diventa decisiva quando viene presa con timing e numeri mentre il nemico è distratto altrove.  
-
-7) B – Entrare a wave evita il trickle-in e aumenta le probabilità di riprendere il nodo.  
-
-8) C – Se sei fuori posizione, basta uno stun sul flag per concedere cap immediato.  
-
-9) B – Il nemico cerca sempre il nodo con meno difesa o più distante dai rinforzi.  
-
-10) B – Lumber Mill offre controllo verticale e knock che cambiano l’esito del fight.  
+<ol>
+<li><strong>C</strong> – A Lumber Mill devi guadagnare tempo usando terreno e LOS, non cercare il duello frontale.</li>
+<li><strong>B</strong> – Con 3 basi stabili difendi il triangolo forte e non regali rotazioni inseguendo una side.</li>
+<li><strong>C</strong> – È centrale e facilmente rinforzabile, quindi attira fight infiniti che scoprono i lati.</li>
+<li><strong>B</strong> – Morire lontano dal flag aumenta il tempo di rientro e apre finestra di cap.</li>
+<li><strong>C</strong> – Il terreno elevato e i knock rendono Lumber Mill la base più forte difensivamente.</li>
+<li><strong>A</strong> – Diventa decisiva quando viene presa con timing e numeri mentre il nemico è distratto altrove.</li>
+<li><strong>B</strong> – Entrare a wave evita il trickle-in e aumenta le probabilità di riprendere il nodo.</li>
+<li><strong>C</strong> – Se sei fuori posizione, basta uno stun sul flag per concedere cap immediato.</li>
+<li><strong>B</strong> – Il nemico cerca sempre il nodo con meno difesa o più distante dai rinforzi.</li>
+<li><strong>B</strong> – Lumber Mill offre controllo verticale e knock che cambiano l’esito del fight.</li>
+</ol>
 
 </details>
+
